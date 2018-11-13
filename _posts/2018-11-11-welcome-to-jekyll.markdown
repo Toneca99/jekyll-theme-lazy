@@ -3,7 +3,7 @@ layout: site
 title:  "First post for the testing theme"
 date:   2018-11-11 22:54:10 +0200
 categories: jekyll update
-permalink: /First
+permalink: /first/
 ---
 # Title Level 1
 ## Title Level 2
