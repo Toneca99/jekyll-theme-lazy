@@ -4,6 +4,7 @@
     display: flex;
     justify-content: space-between;
     flex-wrap:wrap;
+    animation:jumpin 0.3s 1 ease-in;
 }
 
 .listing li {

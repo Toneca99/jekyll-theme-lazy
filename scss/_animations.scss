@@ -9,6 +9,16 @@
         transform: translate(0,0);
     }
 }
+
+@keyframes jumpin {
+    from{
+        transform: scale(0.7) translateX(-3rem);
+    }
+
+    to {
+        transform: scale(1) translateX(0);
+    }
+}
 @keyframes navitemin {
     from {
         
@@ -31,3 +41,4 @@
         transform: translate(0 ,0 )
     }
 }
+

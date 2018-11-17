@@ -83,3 +83,8 @@
     content:'\f00d';
     animation:jump 0.1s 1 ease-in forwards;
 }
+
+#nav-main-toggle:checked + .site-header #nav-toggle-left,
+#nav-main-toggle:checked + .site-header #nav-toggle-right {
+    z-index:1010;
+}
